@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .highlight{
+                color: rgb(246, 226, 7);
+            }
+           
+            #main-header{
+                color: black;
+            }
+           
+            * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        h2, h3, h4 {
+            color: rgb(1, 158, 255);
+        }
+        
+        div p {
+            color: #343352;
+        }
+        </style>
+    </head>
+    <body>
+        <p class="highlight">this is my text of css</p>
+        
+        <h1 id="main-header">this my text of css stat</h1>
+        
+        <h2>this is css</h2>
+        <p>this my class</p>
+        <div>this a unit</div>
+        
+        <h2>angelo</h2>
+        <h3>kai</h3>
+        <h4>my duty is to lissen and know this</h4>
+
+        <div>
+            <p>This is angelo</p>
+        </div>
+    </body>
+</html>
